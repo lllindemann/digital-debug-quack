@@ -45,12 +45,12 @@ Welcome to the **Digital Debug Rubber Duck** website! This project is designed t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/digital-debug-rubber-duck.git
+   git clone https://github.com/lllindemann/digital-debug-quack.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd digital-debug-rubber-duck
+   cd digital-debug-quack
    ```
 
 3. Install dependencies:
