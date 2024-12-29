@@ -1,7 +1,7 @@
-"use client"
-import { Button } from './ui/button';
+"use client";
+import { Button } from "./ui/button";
 
-const mainNavItems = ['A', 'B', 'C'];
+const mainNavItems = ["Quack", "More About Quack", "More Quack"];
 
 export default function MainNav() {
   return (
