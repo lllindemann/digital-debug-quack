@@ -1,3 +1,4 @@
+"use client";
 import { ModeToggle } from "@/components/mode-toggle";
 import Navbar from "@/components/top-nav";
 import { InputForm } from "@/components/input-form";
