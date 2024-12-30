@@ -35,13 +35,11 @@ Welcome to the **Digital Debug Rubber Duck** website! This project is designed t
 ---
 
 ## Setup and Installation
-
-### Prerequisites
-
+This is a [Next.js](https://nextjs.org) project.
 - Node.js (>= 14.x)
 - pnpm
 
-### Steps
+### Getting Started
 
 1. Clone the repository:
    ```bash
@@ -60,11 +58,12 @@ Welcome to the **Digital Debug Rubber Duck** website! This project is designed t
 
 4. Start the development server:
    ```bash
-   pnpm start
+   pnpm run dev
    ```
 
-5. Open the app in your browser at `http://localhost:3000`.
+5. Open the app in your browser at  [http://localhost:3000](http://localhost:3000).
 
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 ---
 
 ## Usage
